@@ -1,0 +1,3 @@
+# BetterDiscordPlugins
+
+yes.
